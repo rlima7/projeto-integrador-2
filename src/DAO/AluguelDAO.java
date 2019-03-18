@@ -18,10 +18,6 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 
-/**
- *
- * @author MuriloCalmon
- */
 public class AluguelDAO {
     
     public void devolver(AluguelDTO a) {
